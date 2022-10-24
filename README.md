@@ -1,15 +1,16 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Math Magicians
 
-> Description the project.
+> This is the first project of the Math Magicians application. I will set up the environment and tools needed to develop a React application. In the following projects, I will develop the actual application.
+
+
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages: HTML/CSS and Javascript
+- Frameworks:- REACTJS
 
 ## Live Demo (if available)
 
@@ -18,39 +19,47 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+Clone the Repo and power on the live-server to view the App or click on the live demo link.
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
+Install a code editor and have a working browser.
 
-### Install
+## Getting started
 
-### Usage
+To get a local copy up and running follow these simple example steps.
 
-### Run tests
+1- Navigate to the button on the top right green "code" button.
+
+2- In the drop down menu choose "Download Zip" or clone it using git using the following command.
+
+$ git@github.com:Kelvin-Ben/Math-Magicians.git
+
+3- After extracting the files, you'll have my project on your local machine.
+
+4- to run the project you'll need to use the following command in your terminal to set up the node modules.
+
+$ npm run start
+
+5- after opening the project in the localHost using live server, you might have to click the dist folder to see the project.
+
+6- for development only purposes: $ npm run serve in the terminal.
+
 
 ### Deployment
 
-
+This App was deployed using the github apps deployment. But you can also run "npm run start" in your terminal after the setup process.
 
 ## Authors
 
-👤 **Author1**
+👤 **Kelvin Benjamin**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Kelvin-Ben](https://github.com/Kelvin-Ben)
+- Twitter: [@kevoyou144](https://twitter.com/kevoyout144)
+- LinkedIn: [Kelvin-Ben](https://www.linkedin.com/in/kelvin-ben-323043173/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -71,5 +80,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._

@@ -3,6 +3,8 @@
   width: 600px;
   height: 400px;
   margin: 10% auto;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
 }
 
 .wrapper {
@@ -27,8 +29,10 @@
 
 .display {
   height: 50px;
-  background-color: #e0e1e6;
+  padding: 5px 15px;
+  background-color: #495057;
   text-align: right;
+  font-size: 18px;
   font-weight: 600;
   color: #fff;
 }
@@ -37,17 +41,29 @@
   background-color: #e0e1e6;
   text-align: center;
   vertical-align: middle;
+  border: 1px solid #495057;
 }
 
-.row-l {
-  background-color: #fe9241;
-  text-align: center;
-  vertical-align: top;
+.row:hover {
+  cursor: pointer;
+  background-color: #adb5bd;
 }
 
+.row-l,
 .row-ll {
   background-color: #fe9241;
   font-size: 100%;
   text-align: center;
-  vertical-align: top;
+  vertical-align: middle;
+  border: 1px solid #495057;
+}
+
+.row-l:hover {
+  background-color: #ffa94d;
+  cursor: pointer;
+}
+
+.row-ll:hover {
+  background-color: #ffa94d;
+  cursor: pointer;
 }

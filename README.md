@@ -2,7 +2,7 @@
 
 # Math Magicians
 
-> In this project, I will continue with the development of the Math Magicians app. I will develop a React component that will hold the core functionality: a calculator.
+> In this project, I will add the logic needed to make the Calculator component you developed in the previous project actually work.
 
 
 ## Built With

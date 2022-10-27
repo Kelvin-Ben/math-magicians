@@ -1,0 +1,53 @@
+.calc-wrapper {
+  border-spacing: 0;
+  width: 600px;
+  height: 400px;
+  margin: 10% auto;
+}
+
+.wrapper {
+  font-family: Inter, sans-serif;
+  font-size: 14px;
+  padding: 12px 20px;
+  border-style: solid;
+  overflow: hidden;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.calc-wrapper div {
+  font-family: Inter, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  padding: 12px 20px;
+  border-style: solid;
+  border-width: 1px;
+  overflow: hidden;
+}
+
+.display {
+  height: 50px;
+  background-color: #e0e1e6;
+  text-align: right;
+  font-weight: 600;
+  color: #fff;
+}
+
+.row {
+  background-color: #e0e1e6;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.row-l {
+  background-color: #fe9241;
+  text-align: center;
+  vertical-align: top;
+}
+
+.row-ll {
+  background-color: #fe9241;
+  font-size: 100%;
+  text-align: center;
+  vertical-align: top;
+}

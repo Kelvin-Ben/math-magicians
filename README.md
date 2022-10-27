@@ -2,7 +2,7 @@
 
 # Math Magicians
 
-> In this project, I will add the logic needed to make the Calculator component you developed in the previous project actually work.
+> In this project I will refactor the Calculator component you developed in the past projects. Instead of using class based components, I will use now hooks.
 
 
 ## Built With

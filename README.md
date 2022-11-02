@@ -2,8 +2,9 @@
 
 # Math Magicians
 
-> In this project, I will add the logic needed to make the Calculator component you developed in the previous project actually work.
-
+> In previous projects, I created the core functionality of the app: a calculator component. Now I should develop a full website with several pages.
+>In this project, I will use React basic styling and for every page, I should create a route.
+>The navigation links for all 3 routes will displayed on each page.
 
 ## Built With
 

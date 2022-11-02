@@ -1,9 +1,12 @@
+* {
+  font-family: 'Lato', sans-serif;
+}
+
 .calc-wrapper {
   border-spacing: 0;
   width: 600px;
   height: 400px;
-  margin: 10% auto;
-  font-family: 'Lato', sans-serif;
+  margin: 2% 0.5%;
   font-weight: 600;
 }
 
@@ -66,4 +69,79 @@
 .row-ll:hover {
   background-color: #ffa94d;
   cursor: pointer;
+}
+
+/* Navbar styli.ng */
+.nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 2rem;
+  background-color: #dee2e6;
+}
+
+.nav ul {
+  display: inherit;
+  gap: 20px;
+  list-style-type: none;
+  cursor: pointer;
+}
+
+ul a {
+  font-size: 24px;
+  color: blue;
+  padding: 0 5px;
+}
+
+ul a:first-child {
+  font-size: 24px;
+  color: blue;
+  border-right: 4px solid #000;
+  padding: 0 5px;
+}
+
+ul a:nth-child(2) {
+  font-size: 24px;
+  color: blue;
+  border-right: 4px solid #000;
+  padding: 0 5px;
+}
+
+.title {
+  font-size: 28px;
+}
+
+.quote {
+  width: 90%;
+  text-align: center;
+  margin: 4em auto;
+  font-size: 40px;
+}
+
+.para1,
+.welcome {
+  width: 96%;
+  margin: 20px auto;
+}
+
+.para1 {
+  width: 70%;
+  margin: 10px 30px;
+  font-size: 24px;
+}
+
+.maths {
+  display: inline-block;
+  width: 50%;
+  margin: 0 10px;
+  font-size: 24px;
+}
+
+#maths {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin: 5% 20px;
 }

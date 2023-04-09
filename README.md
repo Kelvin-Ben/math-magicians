@@ -2,9 +2,11 @@
 
 # Math Magicians
 
-> In previous projects, I created the core functionality of the app: a calculator component. Now I should develop a full website with several pages.
->In this project, I will use React basic styling and for every page, I should create a route.
->The navigation links for all 3 routes will displayed on each page.
+- The React calculator app is a web-based application that allows users to perform arithmetic calculations with a responsive and dynamic user interface. The app is built with React components that allow users to input numeric values and mathematical operators like addition, subtraction, multiplication, and division.
+
+- The app's interface dynamically updates as users enter values and operators, and it provides instant feedback on the calculated result. The app also includes memory functionality, which allows users to save and recall previously calculated values.
+
+- The app is intended to be user-friendly and responsive, working seamlessly across a variety of devices such as desktops, laptops, tablets, and smartphones. It can handle a wide range of calculations, from simple arithmetic to complex scientific calculations.
 
 ## Built With
 

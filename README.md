@@ -13,9 +13,9 @@
 - Major languages: HTML/CSS and Javascript
 - Frameworks:- REACTJS
 
-## Live Demo (if available)
+## Live Demo 
 
-You can find the project [here](https://courageous-sorbet-6cf5e5.netlify.app/)
+You can find the project [here](https://reactcalcalculatorapp.netlify.app/)
 
 
 ## Getting Started
